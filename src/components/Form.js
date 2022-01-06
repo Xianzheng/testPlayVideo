@@ -5,7 +5,7 @@ const NewForm = ({ addSong }) => {
 
   const handle = (e) => {
     e.preventDefault();
-    const address = "http://127.0.0.1:8000/api/task-create/";
+    const address = "https://pickend.herokuapp.com/api/task-create/";
     const data = { title: url, completed: false };
     axios
       .post(address, data)

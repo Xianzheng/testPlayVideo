@@ -23,7 +23,7 @@ export default function App() {
 
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:8000/api/task-list/")
+      .get("https://pickend.herokuapp.com/api/task-list/")
       .then((res) => {
         setSongs(res.data);
       })
