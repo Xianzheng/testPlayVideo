@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/testPlayVideo/static/js/main.8e725469.chunk.js",
-    "main.js.map": "/testPlayVideo/static/js/main.8e725469.chunk.js.map",
+    "main.js": "/testPlayVideo/static/js/main.a2d6a641.chunk.js",
+    "main.js.map": "/testPlayVideo/static/js/main.a2d6a641.chunk.js.map",
     "runtime-main.js": "/testPlayVideo/static/js/runtime-main.a813b867.js",
     "runtime-main.js.map": "/testPlayVideo/static/js/runtime-main.a813b867.js.map",
-    "static/js/2.d245edcc.chunk.js": "/testPlayVideo/static/js/2.d245edcc.chunk.js",
-    "static/js/2.d245edcc.chunk.js.map": "/testPlayVideo/static/js/2.d245edcc.chunk.js.map",
+    "static/js/2.0a75c896.chunk.js": "/testPlayVideo/static/js/2.0a75c896.chunk.js",
+    "static/js/2.0a75c896.chunk.js.map": "/testPlayVideo/static/js/2.0a75c896.chunk.js.map",
     "index.html": "/testPlayVideo/index.html",
-    "static/js/2.d245edcc.chunk.js.LICENSE.txt": "/testPlayVideo/static/js/2.d245edcc.chunk.js.LICENSE.txt"
+    "static/js/2.0a75c896.chunk.js.LICENSE.txt": "/testPlayVideo/static/js/2.0a75c896.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a813b867.js",
-    "static/js/2.d245edcc.chunk.js",
-    "static/js/main.8e725469.chunk.js"
+    "static/js/2.0a75c896.chunk.js",
+    "static/js/main.a2d6a641.chunk.js"
   ]
 }
